@@ -1,0 +1,1 @@
+{ "name": "usage-band", "version": "0.1.0", "description": "입력창 위에 사용량 한도(5시간·7일), 컨텍스트, 비용을 한 줄로 보여줍니다", "types": "./types/index.d.ts" }
